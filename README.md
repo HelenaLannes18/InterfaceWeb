@@ -10,24 +10,8 @@ Desenvolvedores:
 - ng serve --port 8081
 - cd ../
 - cd server_node
-- ng serve
+- npm start
 
-
-
-# Trainee2021.2
-# Space-H
-## Projeto Trainee, Code Jr, Grupo 6, 2021.2
-
-Desenvolvedores:
-- Mateus Alves
-- Pedro Souza
-- Maria Luiza Dornelas
-- Gustavo Dias
-
-
-Scrum Master:
-
-- Helena Lannes
 
 ### Fotos da Aplicação:
 
